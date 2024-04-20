@@ -50,7 +50,6 @@ dt.predict([[5,6]])
 
 ![output](data.png)
 ![output](class.png)
-![output](pandas.png)
 ![output](position.png)
 ![output](null.png)
 ![output](mse.png)
